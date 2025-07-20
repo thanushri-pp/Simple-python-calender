@@ -15,7 +15,7 @@ This is a mini Python project I built as part of my learning journey. It’s a c
 
 ## 🧠 Why I Made This
 
-I’m currently learning Python and building simple apps to improve my skills. I wanted to go beyond just printing the calendar and make it feel helpful — so I added some smart suggestion logic too! This is just a small step, but every line of code gets me closer to my goals 💻🌍
+I’m currently learning Python and building simple apps to improve my skills. I wanted to go beyond just printing the calendar and make it feel helpful so I added some smart suggestion logic too! This is just a small step, but every line of code gets me closer to my goals 💻🌍
 
 ---
 
@@ -25,12 +25,13 @@ I’m currently learning Python and building simple apps to improve my skills. I
 2. Copy the code into a file like calendar_ai.py
 3. Run it in the terminal:
 
-#```bash
+```bash
 python calendar_ai.py
-
+```
 
 SAMPLE OUTPUT
 
+```
 Enter year (e.g., 2025): 2025
 Enter month (1-12): 7
 
@@ -41,7 +42,7 @@ Mo Tu We Th Fr Sa Su
 14 15 16 17 18 19 20
 21 22 23 24 25 26 27
 28 29 30 31
-
+```
 
 ✨ AI Suggestions for the Month:
 → Plan a study schedule for upcoming exams.
